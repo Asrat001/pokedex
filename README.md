@@ -7,8 +7,9 @@ A production-quality Pokémon browser built with **Expo**, **TypeScript**, and *
 ## Screenshots
 
 | List Screen | Detail Screen |
-|---|---|
-| Blue header · search · 2-col grid | Stats bar · breeding · moves grid |
+|:---:|:---:|
+| ![List screen showing the Pokémon grid with search header](./assets/images/photo_2026-04-06_12-24-26.jpg) | ![Detail screen showing Charmeleon's stats, breeding info and moves](./assets/images/photo_2026-04-06_12-24-37.jpg) |
+| Blue header · search · 2-col grid | Stats bars · breeding · moves grid |
 
 ---
 
